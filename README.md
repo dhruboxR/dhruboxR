@@ -1,13 +1,10 @@
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" /> , I'm 
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" /> , I'm Dhrubo Roy
 </h1>
 
 <!-- Animated Name (Typing Effect) -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=Dhrubo+Chandra+Roy;CSE+Student+%7C+Competitive+Programmer;Think+%7C+Code+%7C+Solve" /></p>
-
-<p align="center">
-  <strong>Computer Science & Engineering Student | Competitive Programmer</strong><br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=CSE+Student+%7C+Competitive+Programmer;Think+%7C+Code+%7C+Solve" /></p>
 
 ### Em@il: 
   <a href="mailto:bandhanroy11@gmail.com">dhrubox656@gmail.com</a> | 
