@@ -1,36 +1,39 @@
 <h1 align="center">Hi 👋, I'm Dhrubo Chandra Roy</h1>
-<h3 align="center">Student</h3>
+<p align="center">
+  <strong>Computer Science & Engineering Student | Competitive Programmer</strong>
+</p>
 
-
-##  Connect with Me
-<p align="left">
-  <a href="https://github.com/dhruboxR" target="_blank">
+<p align="center">
+  <a href="https://github.com/dhruboxR">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:dhrubox656@gmail.com" target="_blank">
+  <a href="https://codeforces.com/profile/TheNameIs_ROY">
+    <img src="https://img.shields.io/badge/Codeforces-B12524?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="mailto:bandhanroy11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://instagram.com/bandhanr" target="_blank">
+  <a href="https://instagram.com/bandhanr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://facebook.com/Bandhan_Roy" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhruboxR&color=11d452&style=for-the-badge" alt="Visitor Badge" />
 </p>
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dhruboxR&color=11d452&style=for-the-badge" alt="Visitor Badge" />
-</p>
+### 🚀 About Me
 
 - 🎓 Studying **Computer Science & Engineering (CSE)** at AIUB  
-- 🏆 Competitive Programmer (Codeforces, Problem Solving Enthusiast)  
-- 💡 Interested in **Software Engineering, Backend Development & AI basics**  
-- 🚀 Love building projects and exploring real-world applications of code  
-- 🌱 Currently learning advanced DSA & improving contest performance
+- 🏆 **Competitive Programmer** (Codeforces, Problem Solving Enthusiast)  
+- 💡 Deeply interested in **Software Engineering & Machine Learning** - 🌱 Currently deep-diving into advanced DSA & optimization to level up contest performance  
+- 🛠️ Love building real-world applications and translating concepts into efficient code
 
-## 💻 Tech Stack
+---
+
+### 💻 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-102216?style=for-the-badge&logo=cplusplus&logoColor=11d452" alt="C++"/>
@@ -43,8 +46,23 @@
   <img src="https://img.shields.io/badge/VS%20Code-102216?style=for-the-badge&logo=visualstudiocode&logoColor=11d452" alt="VS Code"/>
 </p>
 
-## 📊 Engineering Metrics
+---
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruboxR&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruboxR&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
+### 📊 Engineering Metrics
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruboxR&layout=compact&theme=tokyonight&title_color=11d452&icon_color=11d452&text_color=ffffff&bg_color=102216&hide_border=true" width="100%" alt="Top Languages" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhruboxR&show_icons=true&theme=tokyonight&title_color=11d452&icon_color=11d452&text_color=ffffff&bg_color=102216&hide_border=true" width="100%" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruboxR&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
