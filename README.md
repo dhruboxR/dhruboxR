@@ -36,10 +36,9 @@
 ```yaml
 Handle: TheNameIs_ROY
 Peak Rating: 1071
-    🏆 1100+ Problems Solved Overall
-```
-### 🔄 Growth Loop
 
+🏆 1100+ Problems Solved Overall
+```
 ```cpp
 bool obsessed = true;
 
