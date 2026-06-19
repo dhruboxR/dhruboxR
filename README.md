@@ -24,11 +24,39 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 Studying **Computer Science & Engineering (CSE)** at AIUB  
-- 🏆 **Competitive Programmer** (Codeforces, Problem Solving Enthusiast)  
-- 💡 Deeply interested in **Software Engineering & Machine Learning** - 🌱 Currently deep-diving into advanced DSA & optimization to level up contest performance  
+- 🎓 Studying **Computer Science & Engineering (CSE) at American International University, Bangladesh
+-  I like figuring out how things work under the hood. It’s fun, sometimes challenging, but always interesting.
+    The more I explore, the more I want to learn.
+- Thankful for every step of this journey so far.
+    
+- ## ⚔️ Codeforces Arena
+
+```yaml
+Handle: TheNameIs_ROY
+Peak Rating: 1071
+    🏆 1112+ Problems Solved Overall
+```
+### 🔄 Growth Loop
+
+```cpp
+bool obsessed = true;
+
+while (obsessed) {
+    solve();
+    learn();
+    debug();
+    upsolve();
+    improve();
+
+    // stuck in the loop [-_-] 
+    // HAVE A GOOD DAY 🚀
+}
+```
+
+- 💡 Deeply interested in **Software Engineering & Machine Learning**
+- 🌱 Currently deep-diving into advanced DSA & optimization to level up contest performance  
 - 🛠️ Love building real-world applications and translating concepts into efficient code
 
 ---
