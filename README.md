@@ -37,7 +37,7 @@
 Handle : TheNameIs_ROY
 MAX Rating : 1071
 
- 1100+ problems cracked, and the grind continues 🚀
+🔥1100+ problems cracked, and the grind continues.....
 ```
 ```cpp
 bool obsessed = true;
