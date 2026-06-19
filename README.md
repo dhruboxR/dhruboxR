@@ -1,43 +1,46 @@
-<h1 align="center">Hi 👋, I'm Dhrubo Chandra Roy</h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" /> , I'm 
+</h1>
+
+<!-- Animated Name (Typing Effect) -->
 <p align="center">
-  <strong>Computer Science & Engineering Student | Competitive Programmer</strong>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=Dhrubo+Chandra+Roy;CSE+Student+%7C+Competitive+Programmer;Think+%7C+Code+%7C+Solve" /></p>
 
 <p align="center">
-  <a href="https://github.com/dhruboxR">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://codeforces.com/profile/TheNameIs_ROY">
-    <img src="https://img.shields.io/badge/Codeforces-B12524?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="mailto:bandhanroy11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/bandhanr">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+  <strong>Computer Science & Engineering Student | Competitive Programmer</strong><br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruboxR&color=11d452&style=for-the-badge" alt="Visitor Badge" />
-</p>
+### Em@il: 
+  <a href="mailto:bandhanroy11@gmail.com">dhrubox656@gmail.com</a> | 
+  <a href="mailto:dhrubox656@gmail.com">bandhanroy11@gmail.com</a><br/>
 
----
+<a href="https://codeforces.com/profile/TheNameIs_ROY" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-TheNameIs__ROY-B12524?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+</p>
 
 ###  About Me
 
 - 🎓 Studying **Computer Science & Engineering (CSE) at American International University, Bangladesh
 -  I like figuring out how things work under the hood. It’s fun, sometimes challenging, but always interesting.
-    The more I explore, the more I want to learn.
-- Thankful for every step of this journey so far.
+- Thankful for every step of this journey so far 😊
+
+### 💻 Tech Stack
+
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,cs,java,html,css,git,vscode,mysql" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+---
     
 - ## ⚔️ Codeforces Arena
 
 ```yaml
-Handle: TheNameIs_ROY
-Peak Rating: 1071
+Handle : TheNameIs_ROY
+MAX Rating : 1071
 
-🏆 1100+ Problems Solved Overall
+ 1100+ problems cracked, and the grind continues 🚀
 ```
 ```cpp
 bool obsessed = true;
@@ -49,29 +52,13 @@ while (obsessed) {
     upsolve();
     improve();
 
-    // stuck in the loop [-_-] 
-    // HAVE A GOOD DAY 🚀
+    // stuck in the loop 🤓 HAVE A GOOD DAY 
 }
 ```
 
 - 💡 Deeply interested in **Software Engineering & Machine Learning**
 - 🌱 Currently deep-diving into advanced DSA & optimization to level up contest performance  
 - 🛠️ Love building real-world applications and translating concepts into efficient code
-
----
-
-### 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-102216?style=for-the-badge&logo=cplusplus&logoColor=11d452" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-102216?style=for-the-badge&logo=python&logoColor=11d452" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-102216?style=for-the-badge&logo=csharp&logoColor=11d452" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-102216?style=for-the-badge&logo=java&logoColor=11d452" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-102216?style=for-the-badge&logo=html5&logoColor=11d452" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11d452" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-102216?style=for-the-badge&logo=git&logoColor=11d452" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-102216?style=for-the-badge&logo=visualstudiocode&logoColor=11d452" alt="VS Code"/>
-</p>
 
 ---
 
