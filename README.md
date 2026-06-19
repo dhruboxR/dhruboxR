@@ -36,7 +36,7 @@
 ```yaml
 Handle: TheNameIs_ROY
 Peak Rating: 1071
-    🏆 1112+ Problems Solved Overall
+    🏆 1100+ Problems Solved Overall
 ```
 ### 🔄 Growth Loop
 
