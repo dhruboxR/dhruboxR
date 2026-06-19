@@ -50,16 +50,9 @@
 
 ### 📊 Engineering Metrics
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruboxR&layout=compact&theme=tokyonight&title_color=11d452&icon_color=11d452&text_color=ffffff&bg_color=102216&hide_border=true" width="100%" alt="Top Languages" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhruboxR&show_icons=true&theme=tokyonight&title_color=11d452&icon_color=11d452&text_color=ffffff&bg_color=102216&hide_border=true" width="100%" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruboxR&layout=compact&theme=tokyonight&title_color=11d452&icon_color=11d452&text_color=ffffff&bg_color=102216&hide_border=true" width="48%" alt="Top Languages" />
+</p>
 
 <br/>
 
