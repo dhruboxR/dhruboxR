@@ -55,7 +55,7 @@ while (obsessed) {
 - 🌱 Currently diving deep into **advanced DSA & optimization** to level up competitive programming performance  
 - 🛠️ Passionate about building real-world applications and translating concepts into efficient code
   
-- 🚀 Check out my projects: https://github.com/dhruboxR?tab=repositories
+- 🚀 Check out my projects : https://github.com/dhruboxR?tab=repositories
 
 ---
 
