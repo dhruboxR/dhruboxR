@@ -9,10 +9,6 @@
 ### Em@il: 
   <a href="mailto:bandhanroy11@gmail.com">dhrubox656@gmail.com</a> | 
   <a href="mailto:dhrubox656@gmail.com">bandhanroy11@gmail.com</a><br/>
-
-<a href="https://codeforces.com/profile/TheNameIs_ROY" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-TheNameIs__ROY-B12524?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
 </p>
 
 ###  About Me
@@ -32,6 +28,9 @@
 ---
     
 - ## ⚔️ Codeforces Arena
+ <a href="https://codeforces.com/profile/TheNameIs_ROY" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-TheNameIs__ROY-B12524?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
 
 ```yaml
 Handle : TheNameIs_ROY
