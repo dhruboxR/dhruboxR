@@ -52,8 +52,10 @@ while (obsessed) {
 ```
 
 - 💡 Deeply interested in **Software Engineering & Machine Learning**
-- 🌱 Currently deep-diving into advanced DSA & optimization to level up contest performance  
-- 🛠️ Love building real-world applications and translating concepts into efficient code
+- 🌱 Currently diving deep into **advanced DSA & optimization** to level up competitive programming performance  
+- 🛠️ Passionate about building real-world applications and translating concepts into efficient code
+  
+- 🚀 Check out my projects: https://github.com/dhruboxR?tab=repositories
 
 ---
 
