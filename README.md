@@ -35,8 +35,7 @@
 ```yaml
 Handle : TheNameIs_ROY
 MAX Rating : 1071
-
-🔥1100+ problems cracked, and the grind continues.....
+Problem Solved : 1100+, And The Grind Continues...🔥
 ```
 ```cpp
 bool obsessed = true;
