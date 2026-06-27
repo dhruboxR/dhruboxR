@@ -47,7 +47,7 @@ while (obsessed) {
     upsolve();
     improve();
 
-    // stuck in the loop 🤓 HAVE A GOOD DAY 
+    // stuck in the loop🤓 HAVE A GOOD DAY 
 }
 ```
 
