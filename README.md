@@ -4,7 +4,7 @@
 
 <!-- Animated Name (Typing Effect) -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=CSE+Student+%7C+Competitive+Programmer;Think+%7C+Code+%7C+Solve" /></p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=BSc+CSE+%7C+Competitive+Programmer;Think+%7C+Code+%7C+Solve" /></p>
 
 ### Em@il: 
   <a href="mailto:bandhanroy11@gmail.com">dhrubox656@gmail.com</a> | 
@@ -38,16 +38,13 @@ MAX Rating : 1071
 Problem Solved : 1100+, And The Grind Continues...🔥
 ```
 ```cpp
-bool obsessed = true;
-
-while (obsessed) {
+while( obsessed ) {
     solve();
     learn();
     debug();
     upsolve();
     improve();
-
-    // stuck in the loop🤓 HAVE A GOOD DAY 
+    // stuck in the loop, HAVE A GOOD DAY.
 }
 ```
 
