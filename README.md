@@ -29,7 +29,7 @@
 
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows" />
 </p>
     
 - ## ⚔️ Codeforces Arena
