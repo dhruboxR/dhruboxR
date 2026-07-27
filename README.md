@@ -58,17 +58,3 @@ while( obsessed ) {
 - 🛠️ Passionate about building real-world applications and translating concepts into efficient code
   
 - 🚀 Check out my projects : https://github.com/dhruboxR?tab=repositories
-
----
-
-### 📊 Engineering Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruboxR&layout=compact&theme=tokyonight&title_color=11d452&icon_color=11d452&text_color=ffffff&bg_color=102216&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruboxR&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
