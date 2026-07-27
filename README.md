@@ -17,7 +17,7 @@
 -  I like figuring out how things work under the hood. It’s fun, sometimes challenging, but always interesting.
 - Thankful for every step of this journey so far 😊
 
-### 💻 Tech Stack
+### 🧩 Tech Stack
 
 </p>
 <p align="left">
@@ -25,7 +25,12 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
----
+### 🖥️ Operating Systems
+
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+</p>
     
 - ## ⚔️ Codeforces Arena
  <a href="https://codeforces.com/profile/TheNameIs_ROY" target="_blank">
