@@ -14,7 +14,7 @@
 ###  About Me
 
 - 🎓 Studying **Computer Science & Engineering (CSE) at American International University, Bangladesh
--  I like figuring out how things work under the hood. It’s fun, sometimes challenging, but always interesting.
+- I enjoy figuring out how things work under the hood. It's fun, often challenging, and always an opportunity to learn something new.
 - Thankful for every step of this journey so far 😊
 
 ### 🧩 Tech Stack
