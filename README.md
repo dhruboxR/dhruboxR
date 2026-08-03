@@ -27,7 +27,9 @@
 
 ### 🖥️ Operating Systems
 
-</p>
+-  **Linux (Ubuntu)** — Currently my daily driver.
+-  **Windows** — Previously my primary OS.
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows" />
 </p>
