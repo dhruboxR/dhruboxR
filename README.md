@@ -27,7 +27,7 @@
 
 ### 🖥️ Operating Systems
 
--  **Linux (Ubuntu)** — Currently my daily driver.
+-  **Linux (Ubuntu 26.04)** — Currently my daily driver.
 -  **Windows** — Previously my primary OS.
 
 <p align="left">
