@@ -26,12 +26,10 @@
 
 ### 🖥️ Operating Systems
 
--  **Linux (Ubuntu 26.04)** — Currently my daily driver.
--  **Windows** — Previously my primary OS.
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows" />
-</p>
+| Period | Operating System | Status |
+|---|---|---|
+| Before  | **Windows** | Previous primary OS |
+| July 2026 → | 🐧 **Ubuntu 26.04 LTS** | Current daily driver |
     
 - ## ⚔️ Codeforces Arena
  <a href="https://codeforces.com/profile/TheNameIs_ROY" target="_blank">
