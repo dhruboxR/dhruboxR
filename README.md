@@ -22,16 +22,22 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,cs,java,html,css,git,vscode,mysql" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+</p>## 
 
 ### 🖥️ Operating Systems
 
-| Period | Operating System | Status |
-|---|---|---|
-| Before  | **Windows** | Previous primary OS |
-| July 2026 → | 🐧 **Ubuntu 26.04 LTS** | Current daily driver |
-    
-- ## ⚔️ Codeforces Arena
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="80" alt="Windows">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" alt="Linux">
+
+**Windows**  
+└─ Previous primary OS  
+&nbsp;&nbsp;&nbsp;↓  
+**Linux (Ubuntu 26.04 LTS)**  
+└─ Switched in **July 2026** → **Current daily driver**
+
+### ⚔️ Codeforces Arena
  <a href="https://codeforces.com/profile/TheNameIs_ROY" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-TheNameIs__ROY-B12524?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
